@@ -1,1 +1,1 @@
-# Open Learning Credits
+# `git4ol` Transactions
